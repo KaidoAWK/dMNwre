@@ -74,7 +74,7 @@ end)
 
 -- this is for the watermark and UI library keybind
 
-e:AddColorPallete('Testing Color Pallete', Color3.fromRGB(89, 125, 255), function(a) 
+e:AddColorPallete('Testing Color Pallete', Color3.fromRGB(150, 20, 208), function(a) 
   print(a)
 end)
 -- Will print the RGB that you chose
